@@ -1,0 +1,19 @@
+# Common
+target/
+build/
+.idea/
+.repository/
+*.iml
+*.iws
+*.jrtc
+*.class
+*.info
+*.properties
+*.jar
+
+#gradle
+.gradle/
+.gradletasknamecache
+
+!gradle-wrapper.jar
+!gradle-wrapper.properties
